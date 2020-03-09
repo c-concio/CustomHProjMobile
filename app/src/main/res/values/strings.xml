@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomHProj</string>
+    <string name="size_title_text">Size</string>
+    <string name="base_title_text">Bases</string>
+    <string name="flavor_title_text">Flavors</string>
+    <string name="amount_button_text">Generate QR Code</string>
+</resources>
