@@ -20,6 +20,7 @@ public class QrActivity extends AppCompatActivity {
     private ArrayList<String> baseArrayList;
     private ArrayList<String> flavorArrayList;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

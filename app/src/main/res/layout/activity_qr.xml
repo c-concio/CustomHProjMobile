@@ -5,16 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/bg3"
     tools:context=".QrActivity">
 
     <Button
         android:id="@+id/scanButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="342dp"
         android:layout_marginStart="144dp"
         android:layout_marginTop="341dp"
-        android:layout_marginBottom="342dp"
-        android:text="Scan QR Code"
+        android:alpha="0.7"
+        android:background="@drawable/round_button"
+        android:fontFamily="casual"
+        android:text=" Scan QR Code "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
